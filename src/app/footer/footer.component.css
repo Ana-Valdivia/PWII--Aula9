@@ -1,0 +1,25 @@
+.topicos {
+    width: 100vw;
+    height: 50vh;
+    background: hsl(220, 51%, 33%);
+    color: #ffffff99 !important;
+    padding: 90px;
+}
+
+.topicos h6 {
+    color: #ffffff;
+}
+
+.topicos li {
+    list-style: none;
+    line-height: 3;
+}
+
+.rodape {
+    background: #dddddd;
+    height: 5vh;
+}
+
+.rodape p {
+    padding-top: 6px;
+}
